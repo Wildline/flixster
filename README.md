@@ -1,4 +1,4 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. 
+
 
 ## Flix Part 2
 
@@ -13,24 +13,18 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
+![](https://i.imgur.com/u3GavpQ.gif)
 
-![](https://i.imgur.com/gtCft3f.gif)
 
-<img src="![](https://i.imgur.com/B4OlLuZ.gif)
-
-" width=250><br>
+<img src="![](https://i.imgur.com/e6n3xYl.gif)" width=250><br>
 
 ### Notes
 I was having problems with my movie grid cell fill. i change the url to fix it 
 
 
-
-
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
 
@@ -49,10 +43,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
+![](https://i.imgur.com/bOXXIMf.gif)
 
-
-<img src="http://g.recordit.co/opGErT1Vth.gif
+<img src="![](https://i.imgur.com/bOXXIMf.gif)
 " width=250><br>
+
+
 
 ### Notes
 Describe any challenges encountered while building the app.
